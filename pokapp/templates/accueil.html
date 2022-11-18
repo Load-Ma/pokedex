@@ -8,7 +8,7 @@
     <h1>Pokedex</h1>
     <div class="poke-container" id="poke-container">
         {% for pokemon in pokemons %}
-            <a href="/p" style="cursor: pointer">
+            <a href="/pokemon/{{ pokemon.id }}" style="cursor: pointer">
             <div id="gopokedex" class="pokemon">
                 <div class="img-container">
                     <img src="{{ pokemon.img.front_default }}"/>
