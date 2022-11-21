@@ -31,9 +31,9 @@ Pour lancer le projet, aller a la racine du projet et tapez la commande suivante
     -> py ./manage.py runserver
 
 La commande devrait vous retourner des informations et notamment une url.
-Vous devrez avoir une url qui ressemble à "http://127.0.0.1:8000/"
+Vous devrez avoir une url qui ressemble à "http://127.0.0.1:8000"
 
-Copiez la dans un navigateur et ouvrez le pokedex !
+Copiez la dans un navigateur et ajouter y un /pokemon/all pour accéder a la liste des pokemons !
 
 Si votre navigateur met du temps à charger la page c'est normal veuillez attendre une minute et tout devrait être bon vous pouvez dès a présent naviger sur le pokedex lorsque vous cliquez sur un pokemon spécific vous aurez accès au vrai pokedex avec les informations du pokémon.
 
