@@ -43,14 +43,16 @@ Si votre navigateur met du temps à charger la page c'est normal veuillez attend
 
 ![image](https://user-images.githubusercontent.com/75785249/203129867-b06e24d6-661a-45ae-9415-189835f91565.png)
 
-Ce qui se trouve dans l'encadré bleu vous permet de passer le pokemon en shiny ou de le mettre en mode normal
+Ce qui se trouve dans l'encadré bleu vous permet de passer le pokemon en __shiny__ ou de le mettre en mode normal
 
 ![image](https://user-images.githubusercontent.com/75785249/203130492-92247e4e-1ef3-4fa7-ade5-c0930c34fb0b.png)
 
-Les **fleches** qui se trouvent dans l'encadré jaune vous permettent de nombreuses choses ! <br>
-Les fleches de gauche et droite permettent de tourner le pokemon pour pouvoir le voir de dos <br>
-Les fleches du haut et du bas vous permettent d'acceder au évolution du pokemon (imaginons c'est la première forme du pokemon en allant sur la fleche du haut vous pourrez voir ses évolutions (avec leurs caractéristiques) et la fleches du bas permet de revenir à la plus petite évolution
+Les __fleches__ qui se trouvent dans l'encadré jaune vous permettent de nombreuses choses ! <br>
+Les __fleches__ de gauche et droite permettent de tourner le pokemon pour pouvoir le voir de dos. <br>
+Les __fleches__ du haut et du bas vous permettent d'acceder au évolution du pokemon (imaginons c'est la première forme du pokemon en allant sur la fleche du haut vous pourrez voir ses évolutions (avec leurs caractéristiques) et la fleches du bas permet de revenir à la plus petite évolution.
 
+![image](https://user-images.githubusercontent.com/75785249/203132276-d3665d04-b75b-4d94-8c45-56de510b2bbe.png)
 
-
-
+Pour finir l'encadré blanc représente votre équipe vous pouvez possedez 6 pokémons dans votre équipe. <br>
+L'encadré rose défini le type de votre pokemon dans le cas ici present il est uniquement de type "eau" il y a deux encadrés car il peut y avoir des pokémons avec deux types. <br>
+L'encardé vert represente les boutons vout permettant d'ajouter ou retirer un pokemon de votre équipe (il se peut que lorsque vous ajoutez ou retirer votre pokemon il se passe rien il suffira de raffraichir la page pour le voir ajouté ou supprimé)
