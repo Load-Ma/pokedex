@@ -53,5 +53,5 @@ Les __fleches__ du haut et du bas vous permettent de vous déplacer de pokemon e
 Pour finir l'encadré blanc représente votre équipe de pokemon par des gifs, vous pouvez possedez jusqu'à 6 pokémons dans votre équipe. <br>
 L'encadré rose défini le type de votre pokemon dans le cas ici present il est uniquement de type "eau" il y a deux encadrés car il peut y avoir des pokémons avec deux types. <br>
 Vous retrouvez également dans les encadrés noirs au dessus toutes les caractéristiques du pokemon comme sa taille, son poids ou encore ses abilités.
-L'encardé vert represente les boutons vout permettant d'ajouter ou retirer un pokemon de votre équipe (il se peut que lorsque vous ajoutez ou retirer votre pokemon il se passe rien il suffira de raffraichir la page pour le voir ajouté ou supprimé)
+L'encardé vert represente les boutons vout permettant d'ajouter ou retirer un pokemon de votre équipe (il se peut que lorsque vous ajoutez ou retirez votre pokemon il se passe rien il suffira de raffraichir la page pour le voir ajouté ou supprimé)
 
