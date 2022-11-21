@@ -43,3 +43,14 @@ Si votre navigateur met du temps à charger la page c'est normal veuillez attend
 
 ![image](https://user-images.githubusercontent.com/75785249/203129867-b06e24d6-661a-45ae-9415-189835f91565.png)
 
+Ce qui se trouve dans l'encadré bleu vous permet de passer le pokemon en shiny ou de le mettre en mode normal
+
+![image](https://user-images.githubusercontent.com/75785249/203130492-92247e4e-1ef3-4fa7-ade5-c0930c34fb0b.png)
+
+Les **fleches** qui se trouvent dans l'encadré jaune vous permettent de nombreuses choses ! <br>
+Les fleches de gauche et droite permettent de tourner le pokemon pour pouvoir le voir de dos <br>
+Les fleches du haut et du bas vous permettent d'acceder au évolution du pokemon (imaginons c'est la première forme du pokemon en allant sur la fleche du haut vous pourrez voir ses évolutions (avec leurs caractéristiques) et la fleches du bas permet de revenir à la plus petite évolution
+
+
+
+
