@@ -37,6 +37,9 @@ Copiez la dans un navigateur et ouvrez le pokedex !
 
 Si votre navigateur met du temps à charger la page c'est normal veuillez attendre une minute et tout devrait être bon vous pouvez dès a présent naviger sur le pokedex lorsque vous cliquez sur un pokemon spécific vous aurez accès au vrai pokedex avec les informations du pokémon.
 
+![image](https://user-images.githubusercontent.com/75785249/203160881-6d7e8cf7-5681-4dd9-bb85-2ed52d9fb16a.png)
+
+
 ![image](https://user-images.githubusercontent.com/75785249/203129867-b06e24d6-661a-45ae-9415-189835f91565.png)
 
 Ce qui se trouve dans l'encadré bleu vous permet de passer le pokemon en __shiny__ ou de le mettre en mode normal. <br>
