@@ -49,6 +49,8 @@ Les __fleches__ du haut et du bas vous permettent d'acceder au pokemon suivant, 
 
 ![image](https://user-images.githubusercontent.com/75785249/203132276-d3665d04-b75b-4d94-8c45-56de510b2bbe.png)
 
-Pour finir l'encadré blanc représente votre équipe vous pouvez possedez 6 pokémons dans votre équipe. <br>
+Pour finir l'encadré blanc représente votre équipe de pokemon par des gifs, vous pouvez possedez jusqu'à 6 pokémons dans votre équipe. <br>
 L'encadré rose défini le type de votre pokemon dans le cas ici present il est uniquement de type "eau" il y a deux encadrés car il peut y avoir des pokémons avec deux types. <br>
 L'encardé vert represente les boutons vout permettant d'ajouter ou retirer un pokemon de votre équipe (il se peut que lorsque vous ajoutez ou retirer votre pokemon il se passe rien il suffira de raffraichir la page pour le voir ajouté ou supprimé)
+
+
