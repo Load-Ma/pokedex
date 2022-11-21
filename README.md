@@ -39,4 +39,7 @@ Vous devrez avoir une url qui ressemble à "http://127.0.0.1:8000/"
 
 Copiez la dans un navigateur et ouvrez le pokedex !
 
-Si votre navigateur met du temps à charger la page c'est normal veuillez attendre une minute et tout devrait être bon 
+Si votre navigateur met du temps à charger la page c'est normal veuillez attendre une minute et tout devrait être bon vous pouvez dès a présent naviger sur le pokedex lorsque vous cliquez sur un pokemon spécific vous aurez accès au vrai pokedex avec les informations du pokedex.
+
+![image](https://user-images.githubusercontent.com/75785249/203129867-b06e24d6-661a-45ae-9415-189835f91565.png)
+
