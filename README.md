@@ -59,3 +59,7 @@ L'encadré rose défini le type de votre pokemon dans le cas ici present il est 
 Vous retrouvez également dans les encadrés noirs au dessus toutes les caractéristiques du pokemon comme sa taille, son poids ou encore ses abilités.
 L'encardé vert represente les boutons vout permettant d'ajouter ou retirer un pokemon de votre équipe (il se peut que lorsque vous ajoutez ou retirez votre pokemon il se passe rien il suffira de raffraichir la page pour le voir ajouté ou supprimé)
 
+LECONTE Cameron
+CAILLE Romain
+GOUEREC Enzo
+
