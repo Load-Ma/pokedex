@@ -39,6 +39,7 @@ Si votre navigateur met du temps à charger la page c'est normal veuillez attend
 
 ![image](https://user-images.githubusercontent.com/75785249/203160881-6d7e8cf7-5681-4dd9-bb85-2ed52d9fb16a.png)
 
+Au dessus de votre pokedex vous pouvez retrouver une barre de rechercher pour retrouver le pokemon que vous chercher en tapant son nom en anglais !
 
 ![image](https://user-images.githubusercontent.com/75785249/203129867-b06e24d6-661a-45ae-9415-189835f91565.png)
 
