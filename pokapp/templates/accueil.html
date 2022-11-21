@@ -8,8 +8,8 @@
     <h1>Pokedex</h1>
     <div class="poke-container" id="poke-container">
         {% for pokemon in pokemons %}
-            <a href="/pokemon/{{ pokemon.id }}" style="cursor: pointer">
-            <div id="gopokedex" class="pokemon">
+            <a href="/pokemon/{{ pokemon.id }}" style="cursor: pointer; text-decoration: none; color: black">
+            <div class="pokemon" style="background-color: {{ pokemon.color }}">
                 <div class="img-container">
                     <img src="{{ pokemon.img.front_default }}"/>
                 </div>
@@ -27,11 +27,11 @@
                         </p>
                     </div>
 
-{#                    <div class="type-pokemon">#}
-{#                        <p>#}
-{#                            Type: {{ pokemon.stats.type1 }}#}
-{#                        </p>#}
-{#                    </div>#}
+                    <div class="type-pokemon">
+                        <p>
+                            Type: {{ pokemon.type}}
+                        </p>
+                    </div>
                 </div>
             </div>
             </a>
