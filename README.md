@@ -53,4 +53,5 @@ Pour finir l'encadré blanc représente votre équipe de pokemon par des gifs, v
 L'encadré rose défini le type de votre pokemon dans le cas ici present il est uniquement de type "eau" il y a deux encadrés car il peut y avoir des pokémons avec deux types. <br>
 L'encardé vert represente les boutons vout permettant d'ajouter ou retirer un pokemon de votre équipe (il se peut que lorsque vous ajoutez ou retirer votre pokemon il se passe rien il suffira de raffraichir la page pour le voir ajouté ou supprimé)
 
+Il est également possible de modifier le sexe des pokemon grace au icon à coté de celui-ci pour avoir leur representation feminin et masculin
 
