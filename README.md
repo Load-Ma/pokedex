@@ -4,7 +4,7 @@ Clonez le projet dans votre IDE de votre choix:
 
 Environnement Virtuel
 
-Si votre IDE ne met pas en place un environnement virtuel,
+Si votre IDE ne met pas en place un environnement virtuel (normalement pokedex est un venv),
 vous devez en mettre un. Pour ce faire, ouvrez un terminal a la racine de votre projet
 et tapez les commandes suivantes :
 
