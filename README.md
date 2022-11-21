@@ -18,10 +18,6 @@ Pour activer le venv, aller dans le dossier script dans le venv et faites la com
 
     -> ./activate
 
-Pour désactiver le venv :
-
-    -> ./deactivate
-
 Il devrait y avoir des erreurs c'est normal il vous manque les packages
 
 Installer les packages
