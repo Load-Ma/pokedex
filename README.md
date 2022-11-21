@@ -8,31 +8,31 @@ Si votre IDE ne met pas en place un environnement virtuel,
 vous devez en mettre un. Pour ce faire, ouvrez un terminal a la racine de votre projet
 et tapez les commandes suivantes :
 
--> pip install virtualenv
+    -> pip install virtualenv
 
-    Pour créer un venv :
+Pour créer un venv :
 
--> py -m venv [NomduVenv]
+    -> py -m venv [NomduVenv]
 
-    Pour activer le venv, aller dans le dossier script dans le venv et faites la commande suivante:
+Pour activer le venv, aller dans le dossier script dans le venv et faites la commande suivante:
 
--> ./activate
+    -> ./activate
 
-    Pour désactiver le venv :
+Pour désactiver le venv :
 
--> ./deactivate
+    -> ./deactivate
 
 Il devrait y avoir des erreurs c'est normal il vous manque les packages
 
-    Installer les packages
+Installer les packages
 
--> pip install request
+    -> pip install request
 
 Lancer le projet
 
-    Pour lancer le projet, aller a la racine du projet et tapez la commande suivante :
+Pour lancer le projet, aller a la racine du projet et tapez la commande suivante :
 
--> py ./manage.py runserver
+    -> py ./manage.py runserver
 
 La commande devrait vous retourner des informations et notamment une url.
 Vous devrez avoir une url qui ressemble à "http://127.0.0.1:8000/"
