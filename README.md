@@ -45,7 +45,7 @@ Ce qui se trouve dans l'encadré bleu vous permet de passer le pokemon en __shin
 
 Les __fleches__ qui se trouvent dans l'encadré jaune vous permettent de nombreuses choses ! <br>
 Les __fleches__ de gauche et droite permettent de tourner le pokemon pour pouvoir le voir de dos. <br>
-Les __fleches__ du haut et du bas vous permettent d'acceder au évolution du pokemon (imaginons c'est la première forme du pokemon en allant sur la fleche du haut vous pourrez voir ses évolutions (avec leurs caractéristiques) et la fleches du bas permet de revenir à la plus petite évolution.
+Les __fleches__ du haut et du bas vous permettent d'acceder au pokemon suivant, cela est très utile pour les évolutions des pokemons qui sont classés par ID (imaginons c'est la première forme du pokemon en allant sur la fleche du haut vous pourrez voir ses évolutions (avec leurs caractéristiques) et la fleches du bas permet de revenir à la plus petite évolution.)
 
 ![image](https://user-images.githubusercontent.com/75785249/203132276-d3665d04-b75b-4d94-8c45-56de510b2bbe.png)
 
